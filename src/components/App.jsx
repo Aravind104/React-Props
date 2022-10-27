@@ -1,8 +1,8 @@
-import Gallery from "./Gallery";
+import ListItems from "./ListItems";
 function App(){
     return(
         <div>
-            <Gallery />
+           <ListItems />
         </div>
     )
 }
